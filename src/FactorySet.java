@@ -2,11 +2,13 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
+
 /**
  *
  * @author Pablo Arriola
  * @author Julio Dieguez
  */
+ 
 public class FactorySet {
     Set setEsperar;
 
